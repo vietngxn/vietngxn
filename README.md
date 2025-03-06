@@ -2,8 +2,7 @@
 **Frontend Developer**  
 🌟 **Về tôi**:  
 Là sinh viên năm 2 tại trường Đại học Công Nghiệp TPHCM  
-🌱 **Đang học**:
-    <ul style="list-style-type: disc;">
+🌱 **Đang học**  <ul style="list-style-type: disc;">
       <li>Web Application Development</li>
       <li>Desktop Application Development</li>
 </ul>
