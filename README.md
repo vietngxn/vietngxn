@@ -1,7 +1,7 @@
 # Hi 👋, I'm Viet
 **Frontend Developer**  
 🌟 **Về tôi**:  
-Là sinh viên năm 2 tại trường Đại học Công Nghiệp TPHCM  
+ <li>Là sinh viên năm 2 tại trường Đại học Công Nghiệp TPHCM  </li>
 🌱 **Đang học:**
       <li>Web Application Development</li>
       <li>Desktop Application Development</li>
