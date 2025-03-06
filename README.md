@@ -1,10 +1,10 @@
 # Hi 👋, I'm Viet
 **Frontend Developer**  
 🌟 **Về tôi**:  <br>
- Là sinh viên năm 2 tại trường Đại học Công Nghiệp TPHCM
+ Là sinh viên năm 2 tại trường Đại học Công Nghiệp TPHCM <br>
 🌱 **Đang học:**<br>
-      Web Application Development
-      Desktop Application Development
+      * Web Application Development<br>
+      * Desktop Application Development<br>
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://github.com/user-attachments/assets/7c06a622-ce1a-4c1d-92df-b03e3105f523)
 
