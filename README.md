@@ -75,7 +75,7 @@
 
 ###
 
-<h5 align="left">IDE</h5>
+<h5 align="left">IDE/Code Editor</h5>
 
 ###
 
