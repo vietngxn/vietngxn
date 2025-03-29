@@ -30,7 +30,8 @@
 <h2 align="left">Personal Skills</h2>
 
 ###
-
+<h5 align="left">Language</h5>
+<h3 align="left">Vietnamese / English / Japanese</h3>
 <h5 align="left">Programming Language</h5>
 
 ###
