@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">🌱 Stydying:</h3>
+<h3 align="left">🌱 Studying:</h3>
 
 ###
 
