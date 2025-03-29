@@ -27,11 +27,11 @@
 ###![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://github.com/user-attachments/assets/fa24e063-2ab4-4436-b90b-480d7d5ca031)
 
 
-<h2 align="left">Kĩ năng cá nhân</h2>
+<h2 align="left">Personal Skills</h2>
 
 ###
 
-<h5 align="left">Ngôn ngữ lập trình</h5>
+<h5 align="left">Programming Language</h5>
 
 ###
 
