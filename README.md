@@ -10,15 +10,15 @@
 
 ###
 
-<h3 align="left">🌟 Về tôi:</h3>
+<h3 align="left">🌟 About Me:</h3>
 
 ###
 
-<p align="left">➡️ Là sinh viên năm 2 tại trường Đại học Công Nghiệp TPHCM</p>
+<p align="left">➡️ 2nd year student Industrial University of Ho Chi Minh City</p>
 
 ###
 
-<h3 align="left">🌱 Đang học:</h3>
+<h3 align="left">🌱 Stydying:</h3>
 
 ###
 
