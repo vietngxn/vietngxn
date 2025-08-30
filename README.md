@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">➡️ 3nd year student in Industrial University of Ho Chi Minh City</p>
+<p align="left">➡️ 3rd year student in Industrial University of Ho Chi Minh City</p>
 
 ###
 
